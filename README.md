@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # DistuApp
 
 To start your Phoenix server:
@@ -16,3 +17,6 @@ Ready to run in production? Please [check our deployment guides](https://hexdocs
 * Docs: https://hexdocs.pm/phoenix
 * Forum: https://elixirforum.com/c/phoenix-forum
 * Source: https://github.com/phoenixframework/phoenix
+=======
+# distu_app
+>>>>>>> 03aef23e71b6f5ad7ae3f4698743a88d5e759a60
